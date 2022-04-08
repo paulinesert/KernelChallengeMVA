@@ -4,6 +4,15 @@
 
 ## Data & task
 
+The dataset used was a subset of 7000 images
+from the Cifar-10 dataset. Each image
+belonged to one of 10 different classes. 5000 images
+with revealed labels were made available for
+training. 2000 images with hidden labels were
+used to compute the classification accuracy for
+the Kaggle challenge. All images were whitened.
+
+
 ## Usage
 
 To run our final script:
